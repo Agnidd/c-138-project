@@ -1,0 +1,30 @@
+body
+{
+background-size: 100%;
+}
+
+.instructions{
+    border: 5px,5px,5px darkblue;
+    float: right;
+    box-shadow: 7px 7px 6px darkblue;
+}
+
+.start_button{
+    box-shadow: 5px 5px 6px darkslategrey;
+}
+
+#instuctions{
+    background-color: cornflowerblue;
+    color: darkblue;
+    box-shadow: black 3px 3px 4px;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.h3{
+    box-shadow: blue;
+    color: whitesmoke;
+}
